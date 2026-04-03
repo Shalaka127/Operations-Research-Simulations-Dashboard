@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# Streamlit
+.streamlit/
+app/__pycache__/
+app/pages/__pycache__/
+app/components/__pycache__/
+app/utils/__pycache__/
+
+# VS Code
+.vscode/
+
+# Project Specific
+*.png
+*.webp
+*.jpg
+.DS_Store
