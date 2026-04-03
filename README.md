@@ -2,6 +2,8 @@
 
 A professional, interactive, and academically rigorous Streamlit application designed for modeling and analyzing stochastic processes. This dashboard provides four key simulation modules: Monte Carlo methods, Queuing theory, Inventory management, and Convergence analysis.
 
+https://shalaka127-operations-research-simulations-dashb-appmain-wqhjeg.streamlit.app/
+
 ## Key Features
 - **Dice Monte Carlo**: Verifies the Law of Large Numbers (LLN) through repeated random sampling.
 - **Queue Analysis (M/M/1)**: Models single-server stochastic processes, including waiting time distribution and traffic intensity ($\rho$).
